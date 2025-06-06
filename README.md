@@ -71,7 +71,6 @@ tools_used:
 
 author:
   name: "👩‍💻 Harshitha"
-  github: "🔗 https://github.com/your-username"
 
 license:
   type: "📜 MIT License"
