@@ -58,8 +58,7 @@ projects:
     url: "🔗 http://localhost:8080"
 
 usage:
-  - "📁 Clone the repository:"
-  - "🔧 git clone https://github.com/your-username/your-repo-name.git"
+  - "📁 Clone the repository:
   - "📂 cd your-repo-name"
   - "🚀 Navigate into any folder and follow the build/run commands."
 
